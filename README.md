@@ -1,0 +1,1 @@
+# shofrica_architecture
